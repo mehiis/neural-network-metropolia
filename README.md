@@ -7,5 +7,5 @@
 * Artem Poliakov | [GitHub](https://github.com/ArtemPoliakov51)<br/>
 
 ## Content
-1. [Assignment 01 | Exploring the CIFAR-10 Dataset Using FNN and CNN Models](assignment-01/assignment_01-cifar-10.ipynb)
+1. [Assignment 01 | Exploring the CIFAR-10 Dataset Using FNN and CNN Models](assignment_01/assignment_01-cifar-10.ipynb)
 
