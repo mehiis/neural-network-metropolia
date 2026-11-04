@@ -1,0 +1,8 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Keras model checkpoints
+*.keras
+
+# Model checkpoint directory (assignment_02)
+/assignment_02/model3_checkpoints/
